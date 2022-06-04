@@ -28,3 +28,4 @@ Specialty: Certification and quality management. Standardization and certificati
 ## Languages
  * English A1
  * Deutsch A2
+ 
